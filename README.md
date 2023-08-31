@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/aysiriin" target="blank"><img src="https://img.shields.io/twitter/follow/aysiriin?logo=twitter&style=for-the-badge" alt="aysiriin" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5,CSS3,JS**
+- 🌱 I’m currently learning **ASP.NET CORE**
 
 - 📫 How to reach me **aysenursirin0@gmail.com**
 
